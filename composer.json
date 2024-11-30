@@ -1,0 +1,15 @@
+{
+    "name": "jarrin/wplt-installer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Jarrin\\WpltInstallerPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jarrin",
+            "email": "j@rrin.nl"
+        }
+    ],
+    "require": {}
+}
